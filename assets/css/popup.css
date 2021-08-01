@@ -1,0 +1,142 @@
+
+#lean_overlay {
+    position: fixed;
+    z-index:100;
+    top: 0px;
+    left: 0px;
+    height:100%;
+    width:100%;
+    background: #000;
+    display: none;
+}
+
+.popupContainer{
+	position:absolute;
+	width:330px;
+	height: auto;
+	left:45%;
+	top:80px;
+	background: #FFF;
+}
+
+#modal_trigger {}
+
+.abtn {
+	background:#ffd234;
+	border-radius: 30px;
+	background-size: 200% auto;
+	border-style: none;
+	color: #333;
+	font-weight: 700;
+	padding: 14px 30px;
+	text-transform: capitalize;
+	z-index: 1;
+	overflow: hidden;
+	display: inline-block;
+	-webkit-transition: all 0.3s ease 0s;
+	transition: all 0.3s ease 0s;
+	font-size: 13px;
+	margin-top: 20px;
+	text-align: center;
+}
+.abtn:hover{
+background:#ffd234;
+color:#333;
+}
+.btn_red:hover {background: #C12B05;}
+
+a.abtn {
+	background:#ffd234;
+	border-radius: 30px;
+	background-size: 200% auto;
+	border-style: none;
+	color: #333;
+	font-weight: 700;
+	padding: 14px 30px;
+	text-transform: capitalize;
+	z-index: 1;
+	overflow: hidden;
+	display: inline-block;
+	-webkit-transition: all 0.3s ease 0s;
+	transition: all 0.3s ease 0s;
+	font-size: 13px;
+	margin-top: 20px;
+	text-align: center;
+}
+a.abtn:hover{
+background:#ffd234;
+color:#333;
+}
+a.btn_red {color: #FFF;}
+
+.one_half {width:50%; display: block; float:left;}
+.one_half.last {width:45%; margin-left:5%;}
+
+/* Popup Styles*/
+.popupHeader {
+	font-size: 16px;
+	text-transform: capitalize;
+	color: #fff;
+}
+.popupHeader {background:#0f1b39; position:relative; padding:10px 20px; border-bottom:1px solid rgba(255,255,255,0.1); font-weight:bold;}
+.popupHeader .modal_close {position: absolute; right: 0; top:0; padding:10px 15px; background:#0f1b39; cursor: pointer; color:#aaa; font-size:16px;}
+
+.popupBody {padding:20px;background:#0f1b39;}
+
+
+/* Social Login Form */
+.social_login {}
+.social_login .social_box {display:block; clear:both; padding:10px; margin-bottom: 10px; background: #0a1634; overflow: hidden;}
+.social_login .icon {
+	display: block;
+	width: 10px;
+	margin-right: 10px;
+	float: left;
+	color: #FFF;
+	font-size: 16px;
+	text-align: center;
+	width: 40px;
+	border-radius: 30px;
+	height: 40px;
+	line-height: 40px;
+}
+.social_login .fb .icon {background:#3B5998;}
+.social_login .google .icon {background:#DD4B39;}
+.social_login .icon_title {display:block; padding:5px 0; float:left; font-weight: 600; font-size: 14px; color:#fff;}
+.social_login .social_box:hover {background:#ffd234;}
+
+.centeredText {
+	text-align: center;
+	text-transform: capitalize;
+	font-weight: 600;
+	color: #fff;
+}
+
+.action_btns {clear:both; overflow: hidden;}
+.action_btns a {display: block;}
+
+/* User Login Form */
+.user_login {display: none;}
+.user_login label {display: block; margin-bottom:5px;}
+.user_login input[type="text"], .user_login input[type="email"], .user_login input[type="password"] {display: block; width:90%; padding: 10px; border:1px solid #DDD; color:#fff;}
+.user_login input[type="checkbox"] {float:left; margin-right:5px;}
+.user_login input[type="checkbox"]+label {float:left;}
+.user_login input {
+	background: none;
+	border: 1px solid rgba(255,255,255,0.2) !important;
+}
+.user_login .checkbox {margin-bottom: 10px; clear: both; overflow: hidden;}
+.forgot_password {display:block; margin: 20px 0 10px; clear: both; overflow: hidden; text-decoration: none; color:#fff;}
+.forgot_password:hover {color:#ffd234;}
+
+/* User Register Form */
+.user_register {display: none;}
+.user_register label {display: block; margin-bottom:5px;}
+.user_register input[type="text"], .user_register input[type="email"], .user_register input[type="password"] {display: block; width:90%; padding: 10px; border:1px solid #DDD; color:#fff;}
+.user_register input[type="checkbox"] {float:left; margin-right:5px;}
+.user_register input[type="checkbox"]+label {float:left;}
+.user_register input {
+	background: none;
+	border: 1px solid rgba(255,255,255,0.2) !important;
+}
+.user_register .checkbox {margin-bottom: 10px; clear: both; overflow: hidden;}
