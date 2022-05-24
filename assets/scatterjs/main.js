@@ -164,7 +164,7 @@ function set_circle_element(elm, value) {
                         
                         var eos_amount = "0.0001 EOS";
 
-                        var eos_memo = "BNG is Prove of Work coin on EOS Blockchain";
+                        var eos_memo = "BNG is a Prove of Work coin on EOS Blockchain";
                         //   var eos_receive_account = "bitnetworker";
                         var eos_receive_account = "bitnetworker";
 
