@@ -132,7 +132,7 @@ function set_circle_element(elm, value) {
 
                         var therect = 'rect' + autominer_cnt;
                         let f3 = document.getElementById(therect);
-                        f3.setAttribute('fill', "#000000");
+                        f3.setAttribute('fill', "#00FF00");
                         //---        
 
                     } // update_ticker
