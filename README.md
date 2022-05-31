@@ -1,22 +1,22 @@
-### Hi there 👋
+### Bit Network Global (BNG) Is 100% POW Coin On EOS Blockchain.
 
-Bit Network Global (BNG) Is 100% POW Coin On EOS Blockchain.
+
 It's a fully decentralized, and open source project based on NedAmarril Solution for Prove of work coin (POW) on EOS. it's the next Bitcoin with 100,000,000 maximum coins that can be minet. BNG is 100% Minerble with no pre-mine supply. Bit Network Global (BNG) Community plans to leverage blockchain technology to ensure a seamless transaction experience, BNG is a result of our love for innovative works around the world. it uses Bitcoin Halving Mechanism to control the circulation and increase its value. BNG used EOS Resources to mine instead of Electricity and Special Devices, which makes it affordable and accessible for anyone, that has access to Mobile Smart Phone or computer System, BNG is on the EOS blockchain.
 
 The DAPP of BNG coin can be found here https://bngone.github.io
 
-BNG Contract
+### BNG Contract
 This contract is based on Ned Amarril POW coin contract, and SOV modernized miner concept.
 
-The Miner 
+### The Miner 
 The BNG Miner is based on POW miner by Ned Amarril, and modernized version by SOV Team, and now BNG community.
 
-How to Mine BNG coin 
+### How to Mine BNG coin 
 Bit Network Global (BNG) token is on EOS Minet , open source and Free to mine, it's 100% Mining Reward System (POW) using Nedameril Solution on EOS Blockchain.
 BNG has 100,000,000 maximum supply.
 
 
-Miner Address:
+### Miner Address:
 https://bngone.github.io/miner.html
 
 Contract: bitnetworker
@@ -24,9 +24,9 @@ Precision: 8
 Symbol: BNG
 
 
-Miner Setting.
+### Miner Setting.
 
-Method 1: 
+### Method 1: 
 search for the contract: bitnetworker
 On any EOS block explorer.
 
@@ -38,7 +38,7 @@ Account: your EOS account you want to mine BNG with.
 
 Symbol: 8,BNG
 
-Method 2:
+### Method 2:
 
 Visit the bngone DAPP link https://bngone.github.io/miner.html, using any EOS DAPP browser, 
 
