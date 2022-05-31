@@ -39,7 +39,10 @@ Account: your EOS account you want to mine BNG with.
 Symbol: 8,BNG
 
 Method 2:
+
 Visit the bngone DAPP link https://bngone.github.io/miner.html, using any EOS DAPP browser, 
+
+![miner](https://user-images.githubusercontent.com/88200741/171152129-bd3d7bfe-b9b8-4f88-9384-43f3391419f4.png)
 
 Click on login, after logged in, then click on 
 initialize BNG miner
